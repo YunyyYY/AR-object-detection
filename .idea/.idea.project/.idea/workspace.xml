@@ -1,0 +1,411 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9dd1107c-74de-442e-a954-484154a7606a" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="863581670">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="cs" value="55" />
+          <entry key="h" value="1" />
+          <entry key="swift" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="C#" value="55" />
+          <entry key="C++" value="1" />
+          <entry key="PLAIN_TEXT" value="18" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="cs" value="10" />
+          <entry key="h" value="1" />
+          <entry key="swift" value="6" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="C#" value="10" />
+          <entry key="C++" value="1" />
+          <entry key="PLAIN_TEXT" value="6" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300" />
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>allocateVisionRequests</find>
+      <find>rectangleRecognitionEnabled</find>
+    </findStrings>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../UnityVision-iOS-master/UnityVision-iOS/Assets/Scripts/Examples/ARKitExample2.cs" root0="SKIP_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Possible/Vision/Managed/VisionRequest.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Plugin/ARKitPlugin.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Possible/Vision/Plugins/iOS/Vision-Bridging-Header.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Possible/Vision/Managed/EventArguments.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Assets/Scripts/Possible/Vision/Managed/Vision.cs" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Assets/ImageTracking.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/TestCameraImage.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/ARKitPlugin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Plugin/ARKitPlugin.cs" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Possible/Vision/Plugins/iOS/Vision-Bridging-Header.h" />
+        <option value="$PROJECT_DIR$/Assets/Scripts/Possible/Vision/Plugins/iOS/VisionNative.swift" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="x" value="962" />
+    <option name="width" value="318" />
+    <option name="height" value="800" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="UnityExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="UnityExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Plugin" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Possible" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Possible" type="1045f7f1:UnityExplorerNode" />
+              <item name="Vision" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Possible" type="1045f7f1:UnityExplorerNode" />
+              <item name="Vision" type="1045f7f1:UnityExplorerNode" />
+              <item name="Plugins" type="1045f7f1:UnityExplorerNode" />
+            </path>
+            <path>
+              <item name="Project" type="e068e287:UnityExplorerRootNode" />
+              <item name="Assets" type="48f920db:UnityExplorerNode$AssetsRoot" />
+              <item name="Scripts" type="1045f7f1:UnityExplorerNode" />
+              <item name="Possible" type="1045f7f1:UnityExplorerNode" />
+              <item name="Vision" type="1045f7f1:UnityExplorerNode" />
+              <item name="Plugins" type="1045f7f1:UnityExplorerNode" />
+              <item name="iOS" type="1045f7f1:UnityExplorerNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-hidden-items" value="false" />
+      </pane>
+      <pane id="FileSystemExplorer" />
+      <pane id="SolutionExplorer">
+        <option name="show-all-files" value="false" />
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.DefaultBreakpoints.AreToggled" value="true" />
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Attach to Unity Editor.Attach to Unity Editor">
+    <configuration name="Attach to Unity Editor &amp; Play" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="UNITY_ATTACH_AND_PLAY" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <configuration name="Attach to Unity Editor" type="UNITY_DEBUG_RUN_CONFIGURATION" factoryName="Unity Debug" show_console_on_std_err="false" show_console_on_std_out="false" port="50000" address="localhost">
+      <option name="listenPortForConnections" value="false" />
+      <option name="pid" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor" />
+      <item itemvalue="Attach to Unity Editor.Attach to Unity Editor &amp; Play" />
+    </list>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9dd1107c-74de-442e-a954-484154a7606a" name="Default Changelist" comment="" />
+      <created>1585938284803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1585938284803</updated>
+      <workItem from="1585938288480" duration="4348000" />
+      <workItem from="1585964504264" duration="2040000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="6388000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1280" height="800" extended-state="0" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2253635" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info active="true" anchor="bottom" id="Build" visible="true" weight="0.17671233" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="NuGet" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unity" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="11" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Unit Tests" order="12" />
+      <window_info anchor="bottom" id="Terminal" order="13" />
+      <window_info anchor="bottom" id="Event Log" order="14" side_tool="true" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" hasMinimizedUI="true" />
+  <component name="UnityUnitTestConfiguration" currentTestLauncher="NUnit" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" suspend="NONE" type="DotNet Exception Breakpoints">
+          <properties exception="System.Threading.ThreadAbortException" displayValue="System.Threading.ThreadAbortException" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Assets/ImageTracking.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ImageTracking.cs" />
+    <entry file="file://$PROJECT_DIR$/../../../UnityVision-iOS-master/UnityVision-iOS/Assets/Scripts/Examples/ARKitExample2.cs">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/TestCameraImage.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Vision.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/ARKitPlugin.cs" />
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Possible/Vision/Plugins/iOS/VisionClassification.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="18" column="5" selection-start-line="18" selection-start-column="5" selection-end-line="18" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Possible/Vision/Managed/EventArguments.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="418">
+          <caret line="25" column="9" selection-start-line="25" selection-start-column="9" selection-end-line="25" selection-end-column="9" />
+          <folding>
+            <marker date="1582039053000" expanded="true" signature="0:312" ph="/* EventArguments.cs ... */" />
+            <marker date="1582039053000" expanded="false" signature="320:420" ph="..." />
+            <marker date="1582039053000" expanded="true" signature="455:1656" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="462:568" ph="/// Carries the results of a successful image classification request. ... " />
+            <marker date="1582039053000" expanded="true" signature="622:839" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="767:833" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="849:954" ph="/// Carries the results of a successful rectangle detection request. ... " />
+            <marker date="1582039053000" expanded="true" signature="1008:1654" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="1023:1134" ph="/// Rectangles with their respective normalized frame coordinates. ... " />
+            <marker date="1582039053000" expanded="true" signature="1252:1648" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="1416:1638" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Possible/Vision/Managed/VisionRequest.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="213">
+          <caret line="26" column="16" selection-start-line="26" selection-start-column="16" selection-end-line="26" selection-end-column="16" />
+          <folding>
+            <marker date="1582039053000" expanded="true" signature="0:311" ph="/* VisionRequest.cs ... */" />
+            <marker date="1582039053000" expanded="true" signature="361:1276" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="368:463" ph="/// Used to specify the type of vision request to perform. ... " />
+            <marker date="1582039053000" expanded="true" signature="505:1065" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="520:580" ph="/// Do nothing. ... " />
+            <marker date="1582039053000" expanded="true" signature="608:699" ph="/// Classify the dominant object on the frame. ... " />
+            <marker date="1582039053000" expanded="true" signature="737:817" ph="/// Detect rectangles on the frame. ... " />
+            <marker date="1582039053000" expanded="true" signature="859:977" ph="/// Both classify the dominant object on the frame and detect rectangles. ... " />
+            <marker date="1582039053000" expanded="true" signature="1114:1274" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="1203:1268" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Plugin/ARKitPlugin.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="405">
+          <caret line="34" column="43" selection-start-line="34" selection-start-column="43" selection-end-line="34" selection-end-column="56" />
+          <folding>
+            <marker date="1585966325452" expanded="true" signature="0:311" ph="/* ARKitExample2.cs ... */" />
+            <marker date="1585966325452" expanded="true" signature="319:480" ph="..." />
+            <marker date="1585966325452" expanded="true" signature="498:2787" ph="{...}" />
+            <marker date="1585966325452" expanded="true" signature="505:615" ph="/// This example demonstrates how to use the Vision and ARKit plugins together. ... " />
+            <marker date="1585966325452" expanded="true" signature="658:2785" ph="{...}" />
+            <marker date="1585966325452" expanded="true" signature="767:1378" ph="{...}" />
+            <marker date="1585966325452" expanded="true" signature="775:1289" ph="/* We need to tell the Vision plugin what kind of requests do we want it to perform. ... */" />
+            <marker date="1585966325452" expanded="true" signature="1405:1545" ph="{...}" />
+            <marker date="1585966325452" expanded="true" signature="1573:1641" ph="{...}" />
+            <marker date="1585966325452" expanded="true" signature="1909:2110" ph="/* Instead of using ARKit's capturedImage (CVPixelBuffer), like we did in the first example, ... */" />
+            <marker date="1585966325452" expanded="true" signature="2610:2782" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Possible/Vision/Managed/Vision.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="331">
+          <caret line="135" column="36" selection-start-line="135" selection-start-column="36" selection-end-line="135" selection-end-column="36" />
+          <folding>
+            <marker date="1582039053000" expanded="true" signature="0:304" ph="/* Vision.cs ... */" />
+            <marker date="1582039053000" expanded="false" signature="312:469" ph="..." />
+            <marker date="1582039053000" expanded="true" signature="504:10381" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="511:631" ph="/// Managed wrapper for using specific features of iOS Vision Framework and CoreML. ... " />
+            <marker date="1582039053000" expanded="true" signature="671:10379" ph="{...}" />
+            <marker date="1582039053000" expanded="false" signature="686:2361" ph="Native Bindings" />
+            <marker date="1582039053000" expanded="true" signature="1617:1656" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="1754:1793" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="1863:1905" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="1985:2027" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="2115:2157" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="2297:2339" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="2371:2464" ph="/// Callback for when an object gets classified. ... " />
+            <marker date="1582039053000" expanded="true" signature="2554:2647" ph="/// Callback for when rectangles get recognized. ... " />
+            <marker date="1582039053000" expanded="true" signature="2741:2848" ph="/// Vision requests to perform when evaluating a pixel buffer. ... " />
+            <marker date="1582039053000" expanded="true" signature="2929:3042" ph="/// Indicates what type of requests are currently being in progress. ... " />
+            <marker date="1582039053000" expanded="true" signature="3124:3244" ph="/// Buffer used to copy rectangle detection results from the native buffer. ... " />
+            <marker date="1582039053000" expanded="true" signature="3360:3481" ph="/// Buffer used to copy image classification results from the native buffer. ... " />
+            <marker date="1582039053000" expanded="true" signature="3584:3671" ph="/// Number of maximum observation results. ... " />
+            <marker date="1582039053000" expanded="true" signature="3724:3828" ph="/// Indicates if there are any vision requests in progress. ... " />
+            <marker date="1582039053000" expanded="true" signature="3860:3951" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="3975:4100" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="4110:4375" ph="/// Note: Heavy call! ... " />
+            <marker date="1582039053000" expanded="true" signature="4463:4932" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="4942:5213" ph="/// Evaluates the provided pixel buffer for recognizable objects. ... " />
+            <marker date="1582039053000" expanded="true" signature="5287:6708" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="5355:5479" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="5539:5686" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="5726:5849" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="5906:6347" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="6373:6505" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="6522:6698" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="6718:6914" ph="/// Invoked from native component when an object gets classified. ... " />
+            <marker date="1582039053000" expanded="true" signature="6974:8029" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="7199:7590" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="7285:7364" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="7385:7466" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="7689:8019" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="8039:8235" ph="/// Invoked from native component when rectangles get recognized. ... " />
+            <marker date="1582039053000" expanded="true" signature="8301:9577" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="8535:8926" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="8621:8700" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="8721:8802" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="9029:9567" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="9595:9773" ph="/// Aligns the specified normalized screen coordinates to device orientation. ... " />
+            <marker date="1582039053000" expanded="true" signature="9852:10376" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="9934:10125" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="10008:10111" ph="{...}" />
+            <marker date="1582039053000" expanded="true" signature="10201:10366" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Possible/Vision/Plugins/iOS/Vision-Bridging-Header.h">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="228">
+          <caret line="12" column="23" selection-start-line="12" selection-start-column="23" selection-end-line="12" selection-end-column="23" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Assets/Scripts/Possible/Vision/Plugins/iOS/VisionNative.swift">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="507">
+          <caret line="199" selection-start-line="199" selection-end-line="199" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
