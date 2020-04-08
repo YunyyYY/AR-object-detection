@@ -1,13 +1,13 @@
 ﻿///////////////////////////////////////////////////////////////////////////////
-// ARKitExample2.cs
-// 
-// Author: Adam Hegedus
-// Contact: adam.hegedus@possible.com
-// Copyright © 2018 POSSIBLE CEE. Released under the MIT license.
+// Modified from: ARKitExample2.cs
+// Original by:
+// 	   Author: Adam Hegedus
+// 	   Contact: adam.hegedus@possible.com
+// 	   Copyright © 2018 POSSIBLE CEE. Released under the MIT license.
 ///////////////////////////////////////////////////////////////////////////////
 
 using System.Linq;
-using Possible.Vision.Managed;
+using Vision.Managed;
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -16,22 +16,16 @@ using UnityEngine.XR.iOS;
 
 namespace Plugin
 {
-    /// <summary>
-	/// This example demonstrates how to use the Vision and ARKit plugins together.
-	/// </summary>
+	// Combine Vision and ARKit plugins together.
 	public class ARKitPlugin : MonoBehaviour 
 	{
-		[SerializeField] private Vision _vision;
+		// Force Unity to serialize the private variables.
+		[SerializeField] private Vision.Managed.Vision _vision;
 		[SerializeField] private Text _text;
 
 		private void Awake()
 		{
-			// We need to tell the Vision plugin what kind of requests do we want it to perform.
-			// This call not only prepares the managed wrapper for the specified image requests,
-			// but allocates VNRequest objects on the native side. You only need to call this
-			// method when you initialize your app, and later if you need to change the type
-			// of requests you want to perform. When performing image classification requests,
-			// maxObservations refers to the number of returned guesses, ordered by confidence.
+			// set request as classification, and only most confident output
 			_vision.SetAndAllocateRequests(VisionRequest.Classification, maxObservations: 1);
 		}
 
@@ -55,8 +49,7 @@ namespace Plugin
                 return;
             }
             
-	        // Instead of using ARKit's capturedImage (CVPixelBuffer), like we did in the first example,
-	        // this time we use the Y plane of the YCbCr texture Unity uses to render the current camera frame.
+	        // Use the Y plane of the YCbCr texture to render the current camera frame.
             ARTextureHandles handles = UnityARSessionNativeInterface.GetARSessionNativeInterface().GetARVideoTextureHandles();
             if (handles.textureY != System.IntPtr.Zero)
             {
@@ -70,7 +63,7 @@ namespace Plugin
 		{
 			// Display the top guess for the dominant object on the image
 			_text.text = e.observations.First().identifier;
-			Debug.Log(e.observations.First().GetType());
+			// Debug.Log(e.observations.First().GetType());
 		}
 	}
 }
